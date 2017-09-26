@@ -1,0 +1,1 @@
+dotnet build rawrabbit.sln -c release -o out
