@@ -9,6 +9,6 @@
     <PackageReference Include="RawRabbit.vNext" Version="1.10.3" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Shared\Shared.csproj" />
+    <ProjectReference Include="..\Shared\shared.csproj" />
   </ItemGroup>
 </Project>
