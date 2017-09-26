@@ -5790,9 +5790,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "C:\\projects\\dev2\\RawRabbit\\send\\send.csproj",
       "projectName": "send",
@@ -5834,10 +5831,6 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "RawRabbit.vNext": {
-            "target": "Package",
-            "version": "1.10.3"
-          },
           "Microsoft.NETCore.App": {
             "target": "Package",
             "version": "2.0.0",
@@ -5848,6 +5841,10 @@
             "version": "5.0.1"
           },
           "RawRabbit": {
+            "target": "Package",
+            "version": "1.10.3"
+          },
+          "RawRabbit.vNext": {
             "target": "Package",
             "version": "1.10.3"
           }

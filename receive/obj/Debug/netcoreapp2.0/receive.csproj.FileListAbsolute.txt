@@ -3,11 +3,10 @@ C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\receive.runtimeconfig
 C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\receive.runtimeconfig.dev.json
 C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\receive.dll
 C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\receive.pdb
-C:\projects\dev2\RawRabbit\receive\obj\Debug\netcoreapp2.0\receive.csprojResolveAssemblyReference.cache
+C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\Shared.dll
+C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\Shared.pdb
 C:\projects\dev2\RawRabbit\receive\obj\Debug\netcoreapp2.0\receive.csproj.CoreCompileInputs.cache
 C:\projects\dev2\RawRabbit\receive\obj\Debug\netcoreapp2.0\receive.AssemblyInfoInputs.cache
 C:\projects\dev2\RawRabbit\receive\obj\Debug\netcoreapp2.0\receive.AssemblyInfo.cs
 C:\projects\dev2\RawRabbit\receive\obj\Debug\netcoreapp2.0\receive.dll
 C:\projects\dev2\RawRabbit\receive\obj\Debug\netcoreapp2.0\receive.pdb
-C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\Shared.dll
-C:\projects\dev2\RawRabbit\receive\bin\Debug\netcoreapp2.0\Shared.pdb
