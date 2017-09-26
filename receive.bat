@@ -1,1 +1,1 @@
-receive\out\receive.dll
+dotnet receive\out\receive.dll
