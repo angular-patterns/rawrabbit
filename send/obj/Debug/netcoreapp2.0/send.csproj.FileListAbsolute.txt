@@ -1,0 +1,13 @@
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\send.deps.json
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\send.runtimeconfig.json
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\send.runtimeconfig.dev.json
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\send.dll
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\send.pdb
+C:\projects\dev2\RawRabbit\send\obj\Debug\netcoreapp2.0\send.csproj.CoreCompileInputs.cache
+C:\projects\dev2\RawRabbit\send\obj\Debug\netcoreapp2.0\send.AssemblyInfoInputs.cache
+C:\projects\dev2\RawRabbit\send\obj\Debug\netcoreapp2.0\send.AssemblyInfo.cs
+C:\projects\dev2\RawRabbit\send\obj\Debug\netcoreapp2.0\send.dll
+C:\projects\dev2\RawRabbit\send\obj\Debug\netcoreapp2.0\send.pdb
+C:\projects\dev2\RawRabbit\send\obj\Debug\netcoreapp2.0\send.csprojResolveAssemblyReference.cache
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\Shared.dll
+C:\projects\dev2\RawRabbit\send\bin\Debug\netcoreapp2.0\Shared.pdb
